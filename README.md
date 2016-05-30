@@ -9,16 +9,18 @@ computations on paper or on your calculator.</p>
 <p>You can use it very easily on the comand line.</p>
 <ul>
 	<li>Download the file on a folder, example C:\User\Mathematics\complex.py</li>
-	<li>$cd .\User\Mathematics (Change to current folder)</li>
-	<li>$python (open interactive python shell)</li>
-	<li>$>>from complex import *</li>
+	<li><b>$cd .\User\Mathematics</b> (Change to current folder)</li>
+	<li><b>$python</b> (open interactive python shell)</li>
+	<li><b>$>>from complex import *</b></li>
 	<li>Use the functions and rock the world :), example:
 		<ul>
-			<li>$>>sum_of_polars(2.0, 15.0, 3.0, 30.0)</li>
+			<li><b>$>>sum_of_polars(2.0, 15.0, 3.0, 30.0)</b></li>
 			<li>(4.958, 24.008)</li>
-			<li>$>>polar2rect(5.0, 45.0)</li>
+			<li><b>$>>polar2rect(5.0, 45.0)</b></li>
 			<li>(3.53 + 3.53j)</li>
-			<li>$>>help()</li>
+			<li><b>$>>help()</b></li>
 		</ul>
 	</li>
 </ul>
+<hr />
+<p>Have fun and don't forget to follow me on twiter <a href="https://twitter.com/code4lifeXanthi">@code4lifeXanthi</a></p>
