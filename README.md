@@ -1,10 +1,8 @@
 <h1>Complex Numbers</h1>
-<hr />
 <p>It is often that electrical engineers in order to solve circuits
 they have to calculate complex numbers, it is fustrating to make all the
 computations on paper or on your calculator.</p>
 <p>These simple functions on python help you a lot with that.</p>
-<hr />
 <h3>How to use it</h3>
 <p>You can use it very easily on the comand line.</p>
 <ol>
